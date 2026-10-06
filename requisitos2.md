@@ -5,9 +5,9 @@ O sistema vai escolher uma cor aleatória e gerar uma combinação de cores base
 outra cor que o usuário vai escolher, usando o circulo cromático.
 
 ### Stack Tecnlógico
-Backend: PHP estruturado com sessões nativas
-Banco de dados: MySQL (PDO para segurança)
-Frontend: HTML5, PHP, CSS, Tailwind CSS
+- Backend: PHP estruturado com sessões nativas
+- Banco de dados: MySQL (PDO para segurança)
+- Frontend: HTML5, PHP, CSS, Tailwind CSS
 
 #### Regras de negócio (CORE)
 Tratar senhas de usuários com hash bcript
