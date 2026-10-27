@@ -1,7 +1,7 @@
 # ROLETA DE CORES
 
 ## OBJETIVOS 
-O objetivo consiste em sortear uma cor aleatória da roda de cores e gerar uma intercessão com uma segunda cor escolhida pelo usuário, usando um cálculo  de interpolação entre valores RGB/HEX
+Crie um site que o objetivo consiste em sortear uma cor aleatória da roda de cores e gerar uma intercessão com uma segunda cor escolhida pelo usuário, usando um cálculo  de interpolação entre valores RGB/HEX
 
 ### STACK TECNÓLOGICO
 Backend: PHP estruturado em sessões narrativas
