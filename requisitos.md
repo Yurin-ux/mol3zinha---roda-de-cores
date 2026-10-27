@@ -4,12 +4,12 @@
 Crie um site que o objetivo consiste em sortear uma cor aleatória da roda de cores e gerar uma intercessão com uma segunda cor escolhida pelo usuário, usando um cálculo  de interpolação entre valores RGB/HEX
 
 ### STACK TECNÓLOGICO
-Backend: PHP estruturado em sessões narrativas
-Banco de dados: MySQL (PDO para segurança)
-Frontend: HTMLS, PHP, CSS, Taiwind CSS
+- Backend: PHP estruturado em sessões narrativas
+- Banco de dados: MySQL (PDO para segurança)
+- Frontend: HTMLS, PHP, CSS, Taiwind CSS
 
 #### Regras de negocio (CORE) 
-Não dá para por duas cores na mesma caixa, não dá para rolar a roleta enquanto estiver em animação de rodar, Não dá para escolher uma cor fora do banco de dados
+Não dá para por duas cores na mesma caixa, não dá para rolar a roleta enquanto estiver em animação de rodar, Não dá para escolher uma cor fora do banco de dados, quero o sistema bem minimalista.
 
 ##### Regras globais
 - Use sempre o mesmo PDO para conexão e quieres no MySQL para evitar SQL Injections
